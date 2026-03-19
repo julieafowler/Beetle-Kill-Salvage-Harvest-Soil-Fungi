@@ -1,2 +1,10 @@
 # Beetle-Kill-Salvage-Harvest-Soil-Fungi
-Scripts for my beetle kill/salvage harvesting soil fungi greenhouse project
+Select scripts for beetle kill/salvage harvesting soil fungi greenhouse project.
+
+Scripts:
+
+1.
+2.
+3.
+4.
+5.
