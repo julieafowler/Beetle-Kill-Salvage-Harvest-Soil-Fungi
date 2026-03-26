@@ -10,7 +10,7 @@ Scripts and data files accompanying the manuscript:
 
 ## Overview
 
-This repository contains all analysis scripts for examining soil fungal & other microbial communities and plant outcomes in a greenhouse experiment using soils from beetle-killed and salvage-harvested forest stands, in addition to field survey vegetation and soil fungal surveys.
+This repository contains analysis scripts for: (1) field surveys of vegetation and soil fungal communities, and (2) a greenhouse experiment examining soil microbial communities (primarily fungal) and plant outcomes using soils from beetle-killed and salvage-harvested forest stands.
 
 ---
 
