@@ -1,0 +1,227 @@
+#OTU ID	Decade	Year_Cut	Soil_Depth	MPB
+Sample1	2nd PreMPB_NEW	1992	5-15cm	Non_MPB
+Sample10	1st PreMPB_Old	1988	5-15cm	Non_MPB
+Sample100	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample101	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample102	1st PreMPB_Old	1986	OrgC	Non_MPB
+Sample103	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample104	Early MPB	2010	0-5cm	MPB
+Sample105	Early MPB	2010	0-5cm	MPB
+Sample106	Recent Cuts	2019/2021	0-5cm	MPB
+Sample107	Early MPB	2010	0-5cm	MPB
+Sample108	Recent Cuts	2019/2021	0-5cm	MPB
+Sample109	Recent Cuts	2019/2021	0-5cm	MPB
+Sample11	2nd PreMPB_NEW	1992	5-15cm	Non_MPB
+Sample110	Late MPB	2013	0-5cm	MPB
+Sample111	Late MPB	2013	0-5cm	MPB
+Sample112	Late MPB	2014	0-5cm	MPB
+Sample113	Late MPB	2014	0-5cm	MPB
+Sample114	Late MPB	2014	0-5cm	MPB
+Sample115	Late MPB	2012	0-5cm	MPB
+Sample116	Late MPB	2013	0-5cm	MPB
+Sample117	Late MPB	2014	0-5cm	MPB
+Sample118	Late MPB	2014	0-5cm	MPB
+Sample119	Late MPB	2012	0-5cm	MPB
+Sample12	1st PreMPB_Old	1988	5-15cm	Non_MPB
+Sample120	Recent Cuts	2019	0-5cm	MPB
+Sample121	Late MPB	2012	0-5cm	MPB
+Sample122	Late MPB	2014	0-5cm	MPB
+Sample123	Late MPB	2013	0-5cm	MPB
+Sample124	Recent Cuts	2019	0-5cm	MPB
+Sample125	Recent Cuts	2019	0-5cm	MPB
+Sample126	Late MPB	2014	5-15cm	MPB
+Sample127	Early MPB	2009	5-15cm	MPB
+Sample128	Early MPB	2010	5-15cm	MPB
+Sample129	Early MPB	2010	5-15cm	MPB
+Sample13	Recent Cuts	2018	5-15cm	MPB
+Sample130	Recent Cuts	2019/2021	5-15cm	MPB
+Sample131	Early MPB	2009	5-15cm	MPB
+Sample132	Early MPB	2010	5-15cm	MPB
+Sample133	Recent Cuts	2019/2021	5-15cm	MPB
+Sample134	Early MPB	2009	5-15cm	MPB
+Sample135	Late MPB	2012	5-15cm	MPB
+Sample136	Early MPB	2009	5-15cm	MPB
+Sample137	Recent Cuts	2019/2021	5-15cm	MPB
+Sample14	2nd PreMPB_NEW	1996	5-15cm	Non_MPB
+Sample140	Late MPB	2014	5-15cm	MPB
+Sample141	Late MPB	2012	5-15cm	MPB
+Sample142	Early MPB	2009	5-15cm	MPB
+Sample143	Early MPB	2008	OrgC	MPB
+Sample144	Early MPB	2008	OrgC	MPB
+Sample145	Early MPB	2008	OrgC	MPB
+Sample146	Early MPB	2008	OrgC	MPB
+Sample147	Early MPB	2008	OrgC	MPB
+Sample148	Early MPB	2009	OrgC	MPB
+Sample149	Early MPB	2008	OrgC	MPB
+Sample15	2nd PreMPB_NEW	1996	5-15cm	Non_MPB
+Sample150	Early MPB	2010	OrgC	MPB
+Sample151	Early MPB	2010	OrgC	MPB
+Sample152	Early MPB	2010	OrgC	MPB
+Sample153	Early MPB	2009	OrgC	MPB
+Sample154	Early MPB	2009	OrgC	MPB
+Sample155	Early MPB	2009	OrgC	MPB
+Sample156	Early MPB	2009	OrgC	MPB
+Sample157	Recent Cuts	2019/2021	OrgC	MPB
+Sample158	Early MPB	2009	OrgC	MPB
+Sample159	Early MPB	2009	OrgC	MPB
+Sample16	1st PreMPB_Old	1989	5-15cm	Non_MPB
+Sample160	Recent Cuts	2019/2021	OrgC	MPB
+Sample161	Recent Cuts	2019/2021	OrgC	MPB
+Sample162	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample163	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample164	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample165	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample166	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample167	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample168	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample169	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample17	Recent Cuts	2019	5-15cm	MPB
+Sample170	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample171	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample172	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample173	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample174	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample175	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample176	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample177	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample178	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample179	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample18	Recent Cuts	2019	5-15cm	MPB
+Sample180	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample181	Late MPB	2013	0-5cm	MPB
+Sample182	Early MPB	2008	0-5cm	MPB
+Sample183	Early MPB	2008	0-5cm	MPB
+Sample184	Early MPB	2009	0-5cm	MPB
+Sample185	Early MPB	2009	0-5cm	MPB
+Sample186	Late MPB	2013	0-5cm	MPB
+Sample187	Early MPB	2009	0-5cm	MPB
+Sample188	Early MPB	2009	0-5cm	MPB
+Sample189	Early MPB	2008	0-5cm	MPB
+Sample19	2nd PreMPB_NEW	1992	5-15cm	Non_MPB
+Sample190	Early MPB	2008	0-5cm	MPB
+Sample191	Early MPB	2009	0-5cm	MPB
+Sample192	Early MPB	2009	0-5cm	MPB
+Sample193	Early MPB	2008	0-5cm	MPB
+Sample194	Early MPB	2008	0-5cm	MPB
+Sample195	1st PreMPB_Old	1986	5-15cm	Non_MPB
+Sample196	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample197	1st PreMPB_Old	1986	0-5cm	Non_MPB
+Sample198	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample199	1st PreMPB_Old	1986	OrgC	Non_MPB
+Sample2	Recent Cuts	2019	5-15cm	MPB
+Sample20	Recent Cuts	2019	5-15cm	MPB
+Sample200	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample201	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample202	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample203	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample204	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample205	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample206	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample207	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample208	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample209	1st PreMPB_Old	1989	0-5cm	Non_MPB
+Sample21	1st PreMPB_Old	1988	5-15cm	Non_MPB
+Sample210	Recent Cuts	2019	0-5cm	MPB
+Sample211	Recent Cuts	2019	0-5cm	MPB
+Sample212	2nd PreMPB_NEW	1992	0-5cm	Non_MPB
+Sample213	Recent Cuts	2018	0-5cm	MPB
+Sample214	Recent Cuts	2019	0-5cm	MPB
+Sample215	Recent Cuts	2019	0-5cm	MPB
+Sample216	1st PreMPB_Old	1989	0-5cm	Non_MPB
+Sample217	1st PreMPB_Old	1989	0-5cm	Non_MPB
+Sample218	2nd PreMPB_NEW	1996	0-5cm	Non_MPB
+Sample219	Recent Cuts	2018	0-5cm	MPB
+Sample22	Recent Cuts	2018	OrgC	MPB
+Sample220	Recent Cuts	2019	0-5cm	MPB
+Sample221	Recent Cuts	2018	0-5cm	MPB
+Sample222	2nd PreMPB_NEW	1996	0-5cm	Non_MPB
+Sample223	Recent Cuts	2019	0-5cm	MPB
+Sample224	1st PreMPB_Old	1988	0-5cm	Non_MPB
+Sample225	2nd PreMPB_NEW	1992	0-5cm	Non_MPB
+Sample226	1st PreMPB_Old	1988	0-5cm	Non_MPB
+Sample227	1st PreMPB_Old	1988	0-5cm	Non_MPB
+Sample228	2nd PreMPB_NEW	1992	0-5cm	Non_MPB
+Sample229	2nd PreMPB_NEW	1996	0-5cm	Non_MPB
+Sample23	2nd PreMPB_NEW	1992	OrgC	Non_MPB
+Sample24	Recent Cuts	2019	OrgC	MPB
+Sample25	Recent Cuts	2019	OrgC	MPB
+Sample26	Recent Cuts	2019	OrgC	MPB
+Sample27	Recent Cuts	2018	OrgC	MPB
+Sample28	2nd PreMPB_NEW	1996	OrgC	Non_MPB
+Sample29	1st PreMPB_Old	1988	OrgC	Non_MPB
+Sample3	Recent Cuts	2018	5-15cm	MPB
+Sample30	1st PreMPB_Old	1989	OrgC	Non_MPB
+Sample31	2nd PreMPB_NEW	1996	OrgC	Non_MPB
+Sample32	1st PreMPB_Old	1989	OrgC	Non_MPB
+Sample33	Recent Cuts	2018	OrgC	MPB
+Sample34	Recent Cuts	2019	OrgC	MPB
+Sample35	1st PreMPB_Old	1988	OrgC	Non_MPB
+Sample36	Recent Cuts	2019	OrgC	MPB
+Sample37	2nd PreMPB_NEW	1996	OrgC	Non_MPB
+Sample38	2nd PreMPB_NEW	1992	OrgC	Non_MPB
+Sample39	Recent Cuts	2018	OrgC	MPB
+Sample4	2nd PreMPB_NEW	1996	5-15cm	Non_MPB
+Sample40	Recent Cuts	2019	OrgC	MPB
+Sample41	1st PreMPB_Old	1988	OrgC	Non_MPB
+Sample42	Recent Cuts	2019	OrgC	MPB
+Sample43	1st PreMPB_Old	1989	OrgC	Non_MPB
+Sample44	2nd PreMPB_NEW	1992	OrgC	Non_MPB
+Sample45	Late MPB	2013	OrgC	MPB
+Sample46	Late MPB	2014	OrgC	MPB
+Sample47	Late MPB	2013	OrgC	MPB
+Sample48	Late MPB	2013	OrgC	MPB
+Sample49	Late MPB	2012	OrgC	MPB
+Sample5	1st PreMPB_Old	1989	5-15cm	Non_MPB
+Sample50	Late MPB	2014	OrgC	MPB
+Sample51	Late MPB	2014	OrgC	MPB
+Sample52	Late MPB	2014	OrgC	MPB
+Sample53	Late MPB	2012	OrgC	MPB
+Sample54	Late MPB	2012	OrgC	MPB
+Sample55	Late MPB	2014	OrgC	MPB
+Sample56	Late MPB	2013	OrgC	MPB
+Sample57	Late MPB	2013	OrgC	MPB
+Sample58	Late MPB	2013	OrgC	MPB
+Sample59	Recent Cuts	2019	OrgC	MPB
+Sample6	Recent Cuts	2018	5-15cm	MPB
+Sample60	Late MPB	2014	OrgC	MPB
+Sample61	Recent Cuts	2019	OrgC	MPB
+Sample62	Recent Cuts	2019	OrgC	MPB
+Sample63	Recent Cuts	2019	OrgC	MPB
+Sample64	Late MPB	2014	5-15cm	MPB
+Sample65	Recent Cuts	2019	5-15cm	MPB
+Sample66	Recent Cuts	2019	5-15cm	MPB
+Sample67	Early MPB	2009	5-15cm	MPB
+Sample69	Late MPB	2014	5-15cm	MPB
+Sample7	1st PreMPB_Old	1989	5-15cm	Non_MPB
+Sample70	Late MPB	2014	5-15cm	MPB
+Sample71	Late MPB	2014	5-15cm	MPB
+Sample72	Late MPB	2012	5-15cm	MPB
+Sample73	Late MPB	2013	5-15cm	MPB
+Sample74	Late MPB	2013	5-15cm	MPB
+Sample75	Late MPB	2013	5-15cm	MPB
+Sample76	Recent Cuts	2019	5-15cm	MPB
+Sample77	Early MPB	2008	5-15cm	MPB
+Sample78	Early MPB	2008	5-15cm	MPB
+Sample79	Early MPB	2008	5-15cm	MPB
+Sample8	Recent Cuts	2019	5-15cm	MPB
+Sample80	Early MPB	2008	5-15cm	MPB
+Sample81	Early MPB	2008	5-15cm	MPB
+Sample82	Early MPB	2008	5-15cm	MPB
+Sample83	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample84	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample85	Old Forest	Matrix Forest	NA	Non_MPB
+Sample86	Old Forest	Matrix Forest	NA	Non_MPB
+Sample87	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample88	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample89	Old Forest	Matrix Forest	0-5cm	Non_MPB
+Sample9	Recent Cuts	2019	5-15cm	MPB
+Sample90	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample91	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample92	1st PreMPB_Old	1986	0-5cm	Non_MPB
+Sample93	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample94	Old Forest	Matrix Forest	OrgC	Non_MPB
+Sample95	1st PreMPB_Old	1986	5-15cm	Non_MPB
+Sample96	Old Forest	Matrix Forest	5-15cm	Non_MPB
+Sample97	1st PreMPB_Old	1986	5-15cm	Non_MPB
+Sample98	1st PreMPB_Old	1986	OrgC	Non_MPB
+Sample99	1st PreMPB_Old	1986	0-5cm	Non_MPB
