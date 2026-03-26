@@ -1,0 +1,7 @@
+Treatment_LandUse	Treatment_Moisture	Treatment	Number_Total_Containers	Number_Emerged	Percent_Emerged
+Old_Growth	Wet	Old_Growth_Wet	30	15	0.5
+1st_Pre_MPB	Wet	1st_Pre_MPB_Wet	31	21	0.677419355
+2nd_Pre_MPB	Wet	2nd_Pre_MPB_Wet	30	11	0.366666667
+1st_Post_MPB	Wet	1st_Post_MPB_Wet	30	22	0.733333333
+2nd_Post_MPB	Wet	2nd_Post_MPB_Wet	30	13	0.433333333
+Recent_Cut	Wet	Recent_Cut_Wet	30	17	0.566666667
