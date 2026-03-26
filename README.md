@@ -12,7 +12,7 @@ Scripts and data files accompanying the manuscript:
 
 This repository contains analysis scripts for: (1) field surveys of vegetation and soil fungal communities, and (2) a greenhouse experiment examining soil & root tip microbial communities (primarily fungal) and plant outcomes using soils from beetle-killed and salvage-harvested forest stands.\
 \
-Note: Some language is inconsistent throughout the scripts/files. The land use history "Old Forest" or "Old Growth" is referred to as "Reference Forest" in the manuscript, "Early MPB" is referred to as "1st Post-MPB" and "Late MPB" is referred to as "2nd Post-MPB" in the resulting manuscript. 
+Note: Some language is inconsistent throughout the scripts/files. The land use history "Old Forest" or "Old Growth" is referred to as "Reference Forest" in the manuscript. "Early MPB" is referred to as "1st Post-MPB" and "Late MPB" is referred to as "2nd Post-MPB" in the resulting manuscript. 
 
 ---
 
