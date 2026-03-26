@@ -1,0 +1,7 @@
+RMRS_Bag_ID	Type_of_Sample	Sample_Name	Treatment_LandUseHistory	Treatment_Moisture	MPB_Impacted	Clay	Silt	Sand
+85	Dec. 08 2023 Pre-Planting Soil - Texture Only	Old Forest Wet	Old_Forest	Wet	Non_MPB	10.84006275	19.13688001	70.02305724
+87	Dec. 08 2023 Pre-Planting Soil - Texture Only	Recent Cut Wet	Recent_Cut	Wet	MPB	11.36339286	20.06075893	68.57584821
+91	Dec. 08 2023 Pre-Planting Soil - Texture Only	Late MPB Wet	2ndPostMPB	Wet	MPB	9.044816804	25.15202481	65.80315839
+92	Dec. 08 2023 Pre-Planting Soil - Texture Only	Early MPB Wet	1stPostMPB	Wet	MPB	8.570496629	17.24302298	74.18648039
+93	Dec. 08 2023 Pre-Planting Soil - Texture Only	1st Pre-MPB Wet	1stPreMPB	Wet	Non_MPB	9.972708408	34.15311099	55.8741806
+96	Dec. 08 2023 Pre-Planting Soil - Texture Only	2nd Pre-MPB Wet	2ndPreMPB	Wet	Non_MPB	10.65692373	31.11001966	58.2330566
