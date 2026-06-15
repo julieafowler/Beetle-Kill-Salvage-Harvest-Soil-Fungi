@@ -8,7 +8,7 @@ Scripts and data files accompanying the manuscript:
 
 ## Overview
 
-This repository contains analysis scripts for: (1) field surveys of soil fungal communities, and (2) a greenhouse experiment examining soil & root tip fungal communities and plant outcomes using soils from Field sites that span a gradient from beetle-impacted old growth forests to stands clear-cut before the outbreak to beetle-killed stands salvage harvested at varying intervals post-infestation.\
+This repository contains analysis scripts for: (1) field surveys of soil fungal communities, and (2) a greenhouse experiment examining soil & root tip fungal communities and plant growth outcomes using soils from the field survey. The field sites that span a disturbance gradient from beetle-impacted old growth forests to stands clear-cut before the outbreak to beetle-killed stands salvage harvested at varying intervals post-infestation.\
 \
 Note: Some language is inconsistent throughout the scripts/files. The land use history "Old Growth" may be refered to as "Old Forest" in places. "Early MPB" is referred to as "1st Post-MPB" and "Late MPB" is referred to as "2nd Post-MPB" in the resulting manuscript. 
 
