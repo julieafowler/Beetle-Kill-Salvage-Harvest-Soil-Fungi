@@ -1,18 +1,16 @@
-#### Soil Fungi & Seedling Responses to Beetle Kill and Salvage Harvesting ####
-
 Scripts and data files accompanying the manuscript:
 
-> **[Paper Title]**  
-> Author 1, Author 2, Author 3, et al.  
+> **Salvage Harvest Timing Shapes Lodgepole Pine Seedling Performance Through Soil Legacy Effects**  
+> Julie A. Fowler, Timothy S. Fegel, Emily K. Bechtold, Kya M. Sparks, Sarah J. Hart, Louise H. Comas, David M. Barnard, Charles C. Rhoades, Michael J. Wilkins 
 > *Journal Name*, Year. DOI: [link]
 
 ---
 
 ## Overview
 
-This repository contains analysis scripts for: (1) field surveys of vegetation and soil fungal communities, and (2) a greenhouse experiment examining soil & root tip microbial communities (primarily fungal) and plant outcomes using soils from beetle-killed and salvage-harvested forest stands.\
+This repository contains analysis scripts for: (1) field surveys of soil fungal communities, and (2) a greenhouse experiment examining soil & root tip fungal communities and plant outcomes using soils from Field sites that span a gradient from beetle-impacted old growth forests to stands clear-cut before the outbreak to beetle-killed stands salvage harvested at varying intervals post-infestation.\
 \
-Note: Some language is inconsistent throughout the scripts/files. The land use history "Old Forest" or "Old Growth" is referred to as "Reference Forest" in the manuscript. "Early MPB" is referred to as "1st Post-MPB" and "Late MPB" is referred to as "2nd Post-MPB" in the resulting manuscript. 
+Note: Some language is inconsistent throughout the scripts/files. The land use history "Old Growth" may be refered to as "Old Forest" in places. "Early MPB" is referred to as "1st Post-MPB" and "Late MPB" is referred to as "2nd Post-MPB" in the resulting manuscript. 
 
 ---
 
@@ -23,9 +21,9 @@ Scripts are numbered in order of use in the analytical workflow:
 | # | Folder | Description |
 |---|--------|-------------|
 | 1 | `Field_ITS_Analysis` | Field soil fungal (ITS) community analysis |
-| 2 | `Field_Vegetation_Boxplots` | Field vegetation data visualization |
+| 2 |
 | 3 | `Greenhouse_Vegetation_Analysis` | Greenhouse plant response analysis |
-| 4 | `Greenhouse_SoilChemistryandTexture` | Greenhouse soil chemistry and texture characterization |
+| 4 | 
 | 5 | `Greenhouse_16S_Analysis` | Greenhouse bacterial & archaeal (16S) community analysis |
 | 6 | `Greenhouse_ITS_Analysis` | Greenhouse fungal (ITS) alpha/beta diversity, guild assignments, etc. |
 | 7 | `Greenhouse_ITS_EMFOnly_Analysis` | Greenhouse ectomycorrhizal fungal community analyses |
