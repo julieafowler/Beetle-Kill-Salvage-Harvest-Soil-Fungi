@@ -1,7 +1,7 @@
 Scripts and data files accompanying the manuscript:
 
 > **Salvage Harvest Timing Shapes Lodgepole Pine Seedling Performance Through Soil Legacy Effects**  
-> Julie A. Fowler, Timothy S. Fegel, Emily K. Bechtold, Kya M. Sparks, Sarah J. Hart, Louise H. Comas, David M. Barnard, Charles C. Rhoades, Michael J. Wilkins 
+> Julie A. Fowler, Timothy S. Fegel, Emily K. Bechtold, Kya M. Sparks, Sarah J. Hart, Louise H. Comas, David M. Barnard, Charles C. Rhoades, Michael J. Wilkins \
 > *Journal Name*, Year. DOI: [link]
 
 ---
