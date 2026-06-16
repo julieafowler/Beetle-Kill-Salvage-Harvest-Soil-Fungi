@@ -21,19 +21,19 @@ Scripts are numbered in order of use in the analytical workflow:
 | # | Folder | Description |
 |---|--------|-------------|
 | 1 | `Field_ITS_Analysis` | Field soil fungal (ITS) community analysis |
-| 2 |
-| 3 | `Greenhouse_Vegetation_Analysis` | Greenhouse plant response analysis |
-| 4 | 
-| 5 | `Greenhouse_16S_Analysis` | Greenhouse bacterial & archaeal (16S) community analysis |
-| 6 | `Greenhouse_ITS_Analysis` | Greenhouse fungal (ITS) alpha/beta diversity, guild assignments, etc. |
-| 7 | `Greenhouse_ITS_EMFOnly_Analysis` | Greenhouse ectomycorrhizal fungal community analyses |
-| 8 | `Greenhouse_MAASLIN3_PlantOutcomes` | Greenhouse fungal MaAsLin3 differential abundance modeling |
-| 9 | `Greenhouse_sPLS_PlantOutcomes` | Greenhouse fungal sparse PLS regression for plant outcomes |
-| 10 | `Greenhouse_DiagnosticScript_forBayesian` | Data diagnostics & missingness assessment for downstream Bayesian work |
-| 11 | `Greenhouse_SoilChemistry_PCA_forBayesian` | Soil PCA for Bayesian model inputs |
-| 12 | `Greenhouse_SoilChemistry_PCA_Tables` | PCA tables for supplemental materials |
-| 13 | `Greenhouse_Bayesian_Analysis_2FactorMPBStatus` | Univariate Bayesian models (non-MPB vs. MPB) |
-| 14 | `Greenhouse_Bayesian_Analysis_6FactorLandUseHistory` | Univariate Bayesian models (6 land-use histories) |
+| 2 | `Greenhouse_Vegetation_Analysis` | Greenhouse plant response analysis |
+| 3 | `Greenhouse_ITS_Analysis` | Greenhouse fungal (ITS) alpha/beta diversity, guild assignments, etc. |
+| 4 | `Greenhouse_ITS_EMFOnly_Analysis` | Greenhouse ectomycorrhizal fungal community analyses |
+| 5 | `Greenhouse_MAASLIN3_PlantOutcomes` | Greenhouse fungal MaAsLin3 differential abundance modeling |
+| 6 | `Greenhouse_sPLS_PlantOutcomes` | Greenhouse fungal sparse PLS regression for plant outcomes |
+| 7 | `Greenhouse_16S_Analysis` | Greenhouse bacterial & archaeal (16S) community analysis |
+| 8 | `Greenhouse_SoilChemistryTables` | Greenhouse soil chemistry tables for supplemental materials |
+| 9 | `Greenhouse_SoilChemistry_PCA_forBayesian` | Soil PCA for Bayesian model inputs |
+| 10 | `Greenhouse_SoilChemistry_PCA_KMO_Bartlett` | Diagnostics for Soil PCA for Bayesian model inputs |
+| 11 | `Greenhouse_SoilChemistry_PCA_Tables_forSupp` | Creation of supplemental figure for Soil PCA |
+| 12 | `Greenhouse_DiagnosticScript_forBayesian` | Data diagnostics & missingness assessment for downstream Bayesian work |
+| 13 | `Greenhouse_Bayesian_Analysis_6FactorLandUseHistory` | Univariate Bayesian models (6 land-use histories) |
+| 14 | `Greenhouse_Bayesian_Analysis_2FactorSHStatus` | Univariate Bayesian models (non-salvage harvested vs. salvage harvested) |
 | 15 | `Greenhouse_Bayesian_MultivariateAnalysis_MI` | Multivariate Bayesian models with selected predictors |
 | 16 | `Greenhouse_Bayesian_CoefficientTables` | Coefficient tables for supplemental materials |
 | 17 | `Greenhouse_BayesianMultivariate_HypothesisFigure` | Main non-MPB vs. MPB hypothesis figure generation |
