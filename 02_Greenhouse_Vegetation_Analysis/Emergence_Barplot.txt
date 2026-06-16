@@ -1,0 +1,7 @@
+Treatment_LandUse	Number_Total_Containers	Number_Emerged	Percent_Emerged	Salvage_Harvest_Status
+Old_Growth	30	15	0.5	Non_Salvage_Harvested
+1st_Pre_MPB	31	21	0.677419355	Non_Salvage_Harvested
+2nd_Pre_MPB	30	11	0.366666667	Non_Salvage_Harvested
+1st_Post_MPB	30	22	0.733333333	Salvage_Harvested
+2nd_Post_MPB	30	13	0.433333333	Salvage_Harvested
+Recent_Cut	30	17	0.566666667	Salvage_Harvested
