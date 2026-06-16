@@ -1,0 +1,227 @@
+#OTU ID	Decade	Year_Cut	Soil_Depth	Salvage_Harvest_Status
+Sample1	2nd PreMPB_NEW	1992	5-15cm	Non_Salvage_Harvested
+Sample10	1st PreMPB_Old	1988	5-15cm	Non_Salvage_Harvested
+Sample100	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample101	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample102	1st PreMPB_Old	1986	OrgC	Non_Salvage_Harvested
+Sample103	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample104	Early MPB	2010	0-5cm	Salvage_Harvested
+Sample105	Early MPB	2010	0-5cm	Salvage_Harvested
+Sample106	Recent Cuts	2019/2021	0-5cm	Salvage_Harvested
+Sample107	Early MPB	2010	0-5cm	Salvage_Harvested
+Sample108	Recent Cuts	2019/2021	0-5cm	Salvage_Harvested
+Sample109	Recent Cuts	2019/2021	0-5cm	Salvage_Harvested
+Sample11	2nd PreMPB_NEW	1992	5-15cm	Non_Salvage_Harvested
+Sample110	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample111	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample112	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample113	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample114	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample115	Late MPB	2012	0-5cm	Salvage_Harvested
+Sample116	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample117	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample118	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample119	Late MPB	2012	0-5cm	Salvage_Harvested
+Sample12	1st PreMPB_Old	1988	5-15cm	Non_Salvage_Harvested
+Sample120	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample121	Late MPB	2012	0-5cm	Salvage_Harvested
+Sample122	Late MPB	2014	0-5cm	Salvage_Harvested
+Sample123	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample124	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample125	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample126	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample127	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample128	Early MPB	2010	5-15cm	Salvage_Harvested
+Sample129	Early MPB	2010	5-15cm	Salvage_Harvested
+Sample13	Recent Cuts	2018	5-15cm	Salvage_Harvested
+Sample130	Recent Cuts	2019/2021	5-15cm	Salvage_Harvested
+Sample131	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample132	Early MPB	2010	5-15cm	Salvage_Harvested
+Sample133	Recent Cuts	2019/2021	5-15cm	Salvage_Harvested
+Sample134	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample135	Late MPB	2012	5-15cm	Salvage_Harvested
+Sample136	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample137	Recent Cuts	2019/2021	5-15cm	Salvage_Harvested
+Sample14	2nd PreMPB_NEW	1996	5-15cm	Non_Salvage_Harvested
+Sample140	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample141	Late MPB	2012	5-15cm	Salvage_Harvested
+Sample142	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample143	Early MPB	2008	OrgC	Salvage_Harvested
+Sample144	Early MPB	2008	OrgC	Salvage_Harvested
+Sample145	Early MPB	2008	OrgC	Salvage_Harvested
+Sample146	Early MPB	2008	OrgC	Salvage_Harvested
+Sample147	Early MPB	2008	OrgC	Salvage_Harvested
+Sample148	Early MPB	2009	OrgC	Salvage_Harvested
+Sample149	Early MPB	2008	OrgC	Salvage_Harvested
+Sample15	2nd PreMPB_NEW	1996	5-15cm	Non_Salvage_Harvested
+Sample150	Early MPB	2010	OrgC	Salvage_Harvested
+Sample151	Early MPB	2010	OrgC	Salvage_Harvested
+Sample152	Early MPB	2010	OrgC	Salvage_Harvested
+Sample153	Early MPB	2009	OrgC	Salvage_Harvested
+Sample154	Early MPB	2009	OrgC	Salvage_Harvested
+Sample155	Early MPB	2009	OrgC	Salvage_Harvested
+Sample156	Early MPB	2009	OrgC	Salvage_Harvested
+Sample157	Recent Cuts	2019/2021	OrgC	Salvage_Harvested
+Sample158	Early MPB	2009	OrgC	Salvage_Harvested
+Sample159	Early MPB	2009	OrgC	Salvage_Harvested
+Sample16	1st PreMPB_Old	1989	5-15cm	Non_Salvage_Harvested
+Sample160	Recent Cuts	2019/2021	OrgC	Salvage_Harvested
+Sample161	Recent Cuts	2019/2021	OrgC	Salvage_Harvested
+Sample162	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample163	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample164	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample165	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample166	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample167	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample168	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample169	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample17	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample170	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample171	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample172	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample173	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample174	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample175	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample176	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample177	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample178	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample179	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample18	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample180	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample181	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample182	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample183	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample184	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample185	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample186	Late MPB	2013	0-5cm	Salvage_Harvested
+Sample187	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample188	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample189	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample19	2nd PreMPB_NEW	1992	5-15cm	Non_Salvage_Harvested
+Sample190	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample191	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample192	Early MPB	2009	0-5cm	Salvage_Harvested
+Sample193	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample194	Early MPB	2008	0-5cm	Salvage_Harvested
+Sample195	1st PreMPB_Old	1986	5-15cm	Non_Salvage_Harvested
+Sample196	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample197	1st PreMPB_Old	1986	0-5cm	Non_Salvage_Harvested
+Sample198	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample199	1st PreMPB_Old	1986	OrgC	Non_Salvage_Harvested
+Sample2	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample20	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample200	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample201	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample202	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample203	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample204	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample205	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample206	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample207	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample208	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample209	1st PreMPB_Old	1989	0-5cm	Non_Salvage_Harvested
+Sample21	1st PreMPB_Old	1988	5-15cm	Non_Salvage_Harvested
+Sample210	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample211	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample212	2nd PreMPB_NEW	1992	0-5cm	Non_Salvage_Harvested
+Sample213	Recent Cuts	2018	0-5cm	Salvage_Harvested
+Sample214	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample215	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample216	1st PreMPB_Old	1989	0-5cm	Non_Salvage_Harvested
+Sample217	1st PreMPB_Old	1989	0-5cm	Non_Salvage_Harvested
+Sample218	2nd PreMPB_NEW	1996	0-5cm	Non_Salvage_Harvested
+Sample219	Recent Cuts	2018	0-5cm	Salvage_Harvested
+Sample22	Recent Cuts	2018	OrgC	Salvage_Harvested
+Sample220	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample221	Recent Cuts	2018	0-5cm	Salvage_Harvested
+Sample222	2nd PreMPB_NEW	1996	0-5cm	Non_Salvage_Harvested
+Sample223	Recent Cuts	2019	0-5cm	Salvage_Harvested
+Sample224	1st PreMPB_Old	1988	0-5cm	Non_Salvage_Harvested
+Sample225	2nd PreMPB_NEW	1992	0-5cm	Non_Salvage_Harvested
+Sample226	1st PreMPB_Old	1988	0-5cm	Non_Salvage_Harvested
+Sample227	1st PreMPB_Old	1988	0-5cm	Non_Salvage_Harvested
+Sample228	2nd PreMPB_NEW	1992	0-5cm	Non_Salvage_Harvested
+Sample229	2nd PreMPB_NEW	1996	0-5cm	Non_Salvage_Harvested
+Sample23	2nd PreMPB_NEW	1992	OrgC	Non_Salvage_Harvested
+Sample24	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample25	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample26	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample27	Recent Cuts	2018	OrgC	Salvage_Harvested
+Sample28	2nd PreMPB_NEW	1996	OrgC	Non_Salvage_Harvested
+Sample29	1st PreMPB_Old	1988	OrgC	Non_Salvage_Harvested
+Sample3	Recent Cuts	2018	5-15cm	Salvage_Harvested
+Sample30	1st PreMPB_Old	1989	OrgC	Non_Salvage_Harvested
+Sample31	2nd PreMPB_NEW	1996	OrgC	Non_Salvage_Harvested
+Sample32	1st PreMPB_Old	1989	OrgC	Non_Salvage_Harvested
+Sample33	Recent Cuts	2018	OrgC	Salvage_Harvested
+Sample34	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample35	1st PreMPB_Old	1988	OrgC	Non_Salvage_Harvested
+Sample36	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample37	2nd PreMPB_NEW	1996	OrgC	Non_Salvage_Harvested
+Sample38	2nd PreMPB_NEW	1992	OrgC	Non_Salvage_Harvested
+Sample39	Recent Cuts	2018	OrgC	Salvage_Harvested
+Sample4	2nd PreMPB_NEW	1996	5-15cm	Non_Salvage_Harvested
+Sample40	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample41	1st PreMPB_Old	1988	OrgC	Non_Salvage_Harvested
+Sample42	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample43	1st PreMPB_Old	1989	OrgC	Non_Salvage_Harvested
+Sample44	2nd PreMPB_NEW	1992	OrgC	Non_Salvage_Harvested
+Sample45	Late MPB	2013	OrgC	Salvage_Harvested
+Sample46	Late MPB	2014	OrgC	Salvage_Harvested
+Sample47	Late MPB	2013	OrgC	Salvage_Harvested
+Sample48	Late MPB	2013	OrgC	Salvage_Harvested
+Sample49	Late MPB	2012	OrgC	Salvage_Harvested
+Sample5	1st PreMPB_Old	1989	5-15cm	Non_Salvage_Harvested
+Sample50	Late MPB	2014	OrgC	Salvage_Harvested
+Sample51	Late MPB	2014	OrgC	Salvage_Harvested
+Sample52	Late MPB	2014	OrgC	Salvage_Harvested
+Sample53	Late MPB	2012	OrgC	Salvage_Harvested
+Sample54	Late MPB	2012	OrgC	Salvage_Harvested
+Sample55	Late MPB	2014	OrgC	Salvage_Harvested
+Sample56	Late MPB	2013	OrgC	Salvage_Harvested
+Sample57	Late MPB	2013	OrgC	Salvage_Harvested
+Sample58	Late MPB	2013	OrgC	Salvage_Harvested
+Sample59	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample6	Recent Cuts	2018	5-15cm	Salvage_Harvested
+Sample60	Late MPB	2014	OrgC	Salvage_Harvested
+Sample61	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample62	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample63	Recent Cuts	2019	OrgC	Salvage_Harvested
+Sample64	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample65	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample66	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample67	Early MPB	2009	5-15cm	Salvage_Harvested
+Sample69	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample7	1st PreMPB_Old	1989	5-15cm	Non_Salvage_Harvested
+Sample70	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample71	Late MPB	2014	5-15cm	Salvage_Harvested
+Sample72	Late MPB	2012	5-15cm	Salvage_Harvested
+Sample73	Late MPB	2013	5-15cm	Salvage_Harvested
+Sample74	Late MPB	2013	5-15cm	Salvage_Harvested
+Sample75	Late MPB	2013	5-15cm	Salvage_Harvested
+Sample76	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample77	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample78	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample79	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample8	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample80	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample81	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample82	Early MPB	2008	5-15cm	Salvage_Harvested
+Sample83	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample84	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample85	Old Forest	Matrix Forest	NA	Non_Salvage_Harvested
+Sample86	Old Forest	Matrix Forest	NA	Non_Salvage_Harvested
+Sample87	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample88	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample89	Old Forest	Matrix Forest	0-5cm	Non_Salvage_Harvested
+Sample9	Recent Cuts	2019	5-15cm	Salvage_Harvested
+Sample90	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample91	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample92	1st PreMPB_Old	1986	0-5cm	Non_Salvage_Harvested
+Sample93	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample94	Old Forest	Matrix Forest	OrgC	Non_Salvage_Harvested
+Sample95	1st PreMPB_Old	1986	5-15cm	Non_Salvage_Harvested
+Sample96	Old Forest	Matrix Forest	5-15cm	Non_Salvage_Harvested
+Sample97	1st PreMPB_Old	1986	5-15cm	Non_Salvage_Harvested
+Sample98	1st PreMPB_Old	1986	OrgC	Non_Salvage_Harvested
+Sample99	1st PreMPB_Old	1986	0-5cm	Non_Salvage_Harvested
