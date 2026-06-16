@@ -1,0 +1,245 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	host	isolation_source	collection_date	geo_loc_name	lat_lon	unit_name	landusehistory	year_cut	transect	soil_depth
+SAMN56617091	Successfully loaded	SFSP1	Field_ITS_SFSP1		soil metagenome	soil	Field_Soil_SFSP1	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	3	5-15cm
+SAMN56617092	Successfully loaded	SFSP2	Field_ITS_SFSP2		soil metagenome	soil	Field_Soil_SFSP2	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	5-15cm
+SAMN56617093	Successfully loaded	SFSP3	Field_ITS_SFSP3		soil metagenome	soil	Field_Soil_SFSP3	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	2	5-15cm
+SAMN56617094	Successfully loaded	SFSP4	Field_ITS_SFSP4		soil metagenome	soil	Field_Soil_SFSP4	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	1	5-15cm
+SAMN56617095	Successfully loaded	SFSP5	Field_ITS_SFSP5		soil metagenome	soil	Field_Soil_SFSP5	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	2	5-15cm
+SAMN56617096	Successfully loaded	SFSP6	Field_ITS_SFSP6		soil metagenome	soil	Field_Soil_SFSP6	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	1	5-15cm
+SAMN56617097	Successfully loaded	SFSP7	Field_ITS_SFSP7		soil metagenome	soil	Field_Soil_SFSP7	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	3	5-15cm
+SAMN56617098	Successfully loaded	SFSP8	Field_ITS_SFSP8		soil metagenome	soil	Field_Soil_SFSP8	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	5-15cm
+SAMN56617099	Successfully loaded	SFSP9	Field_ITS_SFSP9		soil metagenome	soil	Field_Soil_SFSP9	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	5-15cm
+SAMN56617100	Successfully loaded	SFSP10	Field_ITS_SFSP10		soil metagenome	soil	Field_Soil_SFSP10	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	3	5-15cm
+SAMN56617101	Successfully loaded	SFSP11	Field_ITS_SFSP11		soil metagenome	soil	Field_Soil_SFSP11	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	2	5-15cm
+SAMN56617102	Successfully loaded	SFSP12	Field_ITS_SFSP12		soil metagenome	soil	Field_Soil_SFSP12	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	2	5-15cm
+SAMN56617103	Successfully loaded	SFSP13	Field_ITS_SFSP13		soil metagenome	soil	Field_Soil_SFSP13	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	3	5-15cm
+SAMN56617104	Successfully loaded	SFSP14	Field_ITS_SFSP14		soil metagenome	soil	Field_Soil_SFSP14	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	3	5-15cm
+SAMN56617105	Successfully loaded	SFSP15	Field_ITS_SFSP15		soil metagenome	soil	Field_Soil_SFSP15	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	2	5-15cm
+SAMN56617106	Successfully loaded	SFSP16	Field_ITS_SFSP16		soil metagenome	soil	Field_Soil_SFSP16	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	1	5-15cm
+SAMN56617107	Successfully loaded	SFSP17	Field_ITS_SFSP17		soil metagenome	soil	Field_Soil_SFSP17	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	5-15cm
+SAMN56617108	Successfully loaded	SFSP18	Field_ITS_SFSP18		soil metagenome	soil	Field_Soil_SFSP18	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	5-15cm
+SAMN56617109	Successfully loaded	SFSP19	Field_ITS_SFSP19		soil metagenome	soil	Field_Soil_SFSP19	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	1	5-15cm
+SAMN56617110	Successfully loaded	SFSP20	Field_ITS_SFSP20		soil metagenome	soil	Field_Soil_SFSP20	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	5-15cm
+SAMN56617111	Successfully loaded	SFSP21	Field_ITS_SFSP21		soil metagenome	soil	Field_Soil_SFSP21	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	1	5-15cm
+SAMN56617112	Successfully loaded	SFSP22	Field_ITS_SFSP22		soil metagenome	soil	Field_Soil_SFSP22	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	1	OrgC
+SAMN56617113	Successfully loaded	SFSP23	Field_ITS_SFSP23		soil metagenome	soil	Field_Soil_SFSP23	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	1	OrgC
+SAMN56617114	Successfully loaded	SFSP24	Field_ITS_SFSP24		soil metagenome	soil	Field_Soil_SFSP24	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	OrgC
+SAMN56617115	Successfully loaded	SFSP25	Field_ITS_SFSP25		soil metagenome	soil	Field_Soil_SFSP25	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	OrgC
+SAMN56617116	Successfully loaded	SFSP26	Field_ITS_SFSP26		soil metagenome	soil	Field_Soil_SFSP26	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	OrgC
+SAMN56617117	Successfully loaded	SFSP27	Field_ITS_SFSP27		soil metagenome	soil	Field_Soil_SFSP27	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	1	OrgC
+SAMN56617118	Successfully loaded	SFSP28	Field_ITS_SFSP28		soil metagenome	soil	Field_Soil_SFSP28	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	1	OrgC
+SAMN56617119	Successfully loaded	SFSP29	Field_ITS_SFSP29		soil metagenome	soil	Field_Soil_SFSP29	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	2	OrgC
+SAMN56617120	Successfully loaded	SFSP30	Field_ITS_SFSP30		soil metagenome	soil	Field_Soil_SFSP30	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	3	OrgC
+SAMN56617121	Successfully loaded	SFSP31	Field_ITS_SFSP31		soil metagenome	soil	Field_Soil_SFSP31	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	3	OrgC
+SAMN56617122	Successfully loaded	SFSP32	Field_ITS_SFSP32		soil metagenome	soil	Field_Soil_SFSP32	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	1	OrgC
+SAMN56617123	Successfully loaded	SFSP33	Field_ITS_SFSP33		soil metagenome	soil	Field_Soil_SFSP33	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	2	OrgC
+SAMN56617124	Successfully loaded	SFSP34	Field_ITS_SFSP34		soil metagenome	soil	Field_Soil_SFSP34	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	OrgC
+SAMN56617125	Successfully loaded	SFSP35	Field_ITS_SFSP35		soil metagenome	soil	Field_Soil_SFSP35	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	2	OrgC
+SAMN56617126	Successfully loaded	SFSP36	Field_ITS_SFSP36		soil metagenome	soil	Field_Soil_SFSP36	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	OrgC
+SAMN56617127	Successfully loaded	SFSP37	Field_ITS_SFSP37		soil metagenome	soil	Field_Soil_SFSP37	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	2	OrgC
+SAMN56617128	Successfully loaded	SFSP38	Field_ITS_SFSP38		soil metagenome	soil	Field_Soil_SFSP38	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	3	OrgC
+SAMN56617129	Successfully loaded	SFSP39	Field_ITS_SFSP39		soil metagenome	soil	Field_Soil_SFSP39	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	3	OrgC
+SAMN56617130	Successfully loaded	SFSP40	Field_ITS_SFSP40		soil metagenome	soil	Field_Soil_SFSP40	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	OrgC
+SAMN56617131	Successfully loaded	SFSP41	Field_ITS_SFSP41		soil metagenome	soil	Field_Soil_SFSP41	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	3	OrgC
+SAMN56617132	Successfully loaded	SFSP42	Field_ITS_SFSP42		soil metagenome	soil	Field_Soil_SFSP42	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	OrgC
+SAMN56617133	Successfully loaded	SFSP43	Field_ITS_SFSP43		soil metagenome	soil	Field_Soil_SFSP43	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	2	OrgC
+SAMN56617134	Successfully loaded	SFSP44	Field_ITS_SFSP44		soil metagenome	soil	Field_Soil_SFSP44	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	2	OrgC
+SAMN56617135	Successfully loaded	SFSP45	Field_ITS_SFSP45		soil metagenome	soil	Field_Soil_SFSP45	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	3	OrgC
+SAMN56617136	Successfully loaded	SFSP46	Field_ITS_SFSP46		soil metagenome	soil	Field_Soil_SFSP46	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	1	OrgC
+SAMN56617137	Successfully loaded	SFSP47	Field_ITS_SFSP47		soil metagenome	soil	Field_Soil_SFSP47	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	2	OrgC
+SAMN56617138	Successfully loaded	SFSP48	Field_ITS_SFSP48		soil metagenome	soil	Field_Soil_SFSP48	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	1	OrgC
+SAMN56617139	Successfully loaded	SFSP49	Field_ITS_SFSP49		soil metagenome	soil	Field_Soil_SFSP49	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	1	OrgC
+SAMN56617140	Successfully loaded	SFSP50	Field_ITS_SFSP50		soil metagenome	soil	Field_Soil_SFSP50	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	3	OrgC
+SAMN56617141	Successfully loaded	SFSP51	Field_ITS_SFSP51		soil metagenome	soil	Field_Soil_SFSP51	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	2	OrgC
+SAMN56617142	Successfully loaded	SFSP52	Field_ITS_SFSP52		soil metagenome	soil	Field_Soil_SFSP52	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	1	OrgC
+SAMN56617143	Successfully loaded	SFSP53	Field_ITS_SFSP53		soil metagenome	soil	Field_Soil_SFSP53	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	3	OrgC
+SAMN56617144	Successfully loaded	SFSP54	Field_ITS_SFSP54		soil metagenome	soil	Field_Soil_SFSP54	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	2	OrgC
+SAMN56617145	Successfully loaded	SFSP55	Field_ITS_SFSP55		soil metagenome	soil	Field_Soil_SFSP55	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	3	OrgC
+SAMN56617146	Successfully loaded	SFSP56	Field_ITS_SFSP56		soil metagenome	soil	Field_Soil_SFSP56	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	2	OrgC
+SAMN56617147	Successfully loaded	SFSP57	Field_ITS_SFSP57		soil metagenome	soil	Field_Soil_SFSP57	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	1	OrgC
+SAMN56617148	Successfully loaded	SFSP58	Field_ITS_SFSP58		soil metagenome	soil	Field_Soil_SFSP58	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	3	OrgC
+SAMN56617149	Successfully loaded	SFSP59	Field_ITS_SFSP59		soil metagenome	soil	Field_Soil_SFSP59	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	1	OrgC
+SAMN56617150	Successfully loaded	SFSP60	Field_ITS_SFSP60		soil metagenome	soil	Field_Soil_SFSP60	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	2	OrgC
+SAMN56617151	Successfully loaded	SFSP61	Field_ITS_SFSP61		soil metagenome	soil	Field_Soil_SFSP61	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	3	OrgC
+SAMN56617152	Successfully loaded	SFSP62	Field_ITS_SFSP62		soil metagenome	soil	Field_Soil_SFSP62	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	1	OrgC
+SAMN56617153	Successfully loaded	SFSP63	Field_ITS_SFSP63		soil metagenome	soil	Field_Soil_SFSP63	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	2	OrgC
+SAMN56617154	Successfully loaded	SFSP64	Field_ITS_SFSP64		soil metagenome	soil	Field_Soil_SFSP64	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	2	5-15cm
+SAMN56617155	Successfully loaded	SFSP65	Field_ITS_SFSP65		soil metagenome	soil	Field_Soil_SFSP65	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	1	5-15cm
+SAMN56617156	Successfully loaded	SFSP66	Field_ITS_SFSP66		soil metagenome	soil	Field_Soil_SFSP66	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	3	5-15cm
+SAMN56617157	Successfully loaded	SFSP67	Field_ITS_SFSP67		soil metagenome	soil	Field_Soil_SFSP67	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	3	5-15cm
+SAMN56617158	Successfully loaded	SFSP68	Field_ITS_SFSP68		soil metagenome	soil	Field_Soil_SFSP68	2022-08	USA: Colorado	not collected	missing	missing	missing	missing	missing
+SAMN56617159	Successfully loaded	SFSP69	Field_ITS_SFSP69		soil metagenome	soil	Field_Soil_SFSP69	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	2	5-15cm
+SAMN56617160	Successfully loaded	SFSP70	Field_ITS_SFSP70		soil metagenome	soil	Field_Soil_SFSP70	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	1	5-15cm
+SAMN56617161	Successfully loaded	SFSP71	Field_ITS_SFSP71		soil metagenome	soil	Field_Soil_SFSP71	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	3	5-15cm
+SAMN56617162	Successfully loaded	SFSP72	Field_ITS_SFSP72		soil metagenome	soil	Field_Soil_SFSP72	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	3	5-15cm
+SAMN56617163	Successfully loaded	SFSP73	Field_ITS_SFSP73		soil metagenome	soil	Field_Soil_SFSP73	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	3	5-15cm
+SAMN56617164	Successfully loaded	SFSP74	Field_ITS_SFSP74		soil metagenome	soil	Field_Soil_SFSP74	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	2	5-15cm
+SAMN56617165	Successfully loaded	SFSP75	Field_ITS_SFSP75		soil metagenome	soil	Field_Soil_SFSP75	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	1	5-15cm
+SAMN56617166	Successfully loaded	SFSP76	Field_ITS_SFSP76		soil metagenome	soil	Field_Soil_SFSP76	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	2	5-15cm
+SAMN56617167	Successfully loaded	SFSP77	Field_ITS_SFSP77		soil metagenome	soil	Field_Soil_SFSP77	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	2	5-15cm
+SAMN56617168	Successfully loaded	SFSP78	Field_ITS_SFSP78		soil metagenome	soil	Field_Soil_SFSP78	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	1	5-15cm
+SAMN56617169	Successfully loaded	SFSP79	Field_ITS_SFSP79		soil metagenome	soil	Field_Soil_SFSP79	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	1	5-15cm
+SAMN56617170	Successfully loaded	SFSP80	Field_ITS_SFSP80		soil metagenome	soil	Field_Soil_SFSP80	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	3	5-15cm
+SAMN56617171	Successfully loaded	SFSP81	Field_ITS_SFSP81		soil metagenome	soil	Field_Soil_SFSP81	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	2	5-15cm
+SAMN56617172	Successfully loaded	SFSP82	Field_ITS_SFSP82		soil metagenome	soil	Field_Soil_SFSP82	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	3	5-15cm
+SAMN56617173	Successfully loaded	SFSP83	Field_ITS_SFSP83		soil metagenome	soil	Field_Soil_SFSP83	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	1	0-5cm
+SAMN56617174	Successfully loaded	SFSP84	Field_ITS_SFSP84		soil metagenome	soil	Field_Soil_SFSP84	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	1	OrgC
+SAMN56617175	Successfully loaded	SFSP85	Field_ITS_SFSP85		soil metagenome	soil	Field_Soil_SFSP85	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	NA	NA
+SAMN56617176	Successfully loaded	SFSP86	Field_ITS_SFSP86		soil metagenome	soil	Field_Soil_SFSP86	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	NA	NA
+SAMN56617177	Successfully loaded	SFSP87	Field_ITS_SFSP87		soil metagenome	soil	Field_Soil_SFSP87	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	1	0-5cm
+SAMN56617178	Successfully loaded	SFSP88	Field_ITS_SFSP88		soil metagenome	soil	Field_Soil_SFSP88	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	3	0-5cm
+SAMN56617179	Successfully loaded	SFSP89	Field_ITS_SFSP89		soil metagenome	soil	Field_Soil_SFSP89	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	1	0-5cm
+SAMN56617180	Successfully loaded	SFSP90	Field_ITS_SFSP90		soil metagenome	soil	Field_Soil_SFSP90	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	2	5-15cm
+SAMN56617181	Successfully loaded	SFSP91	Field_ITS_SFSP91		soil metagenome	soil	Field_Soil_SFSP91	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	3	OrgC
+SAMN56617182	Successfully loaded	SFSP92	Field_ITS_SFSP92		soil metagenome	soil	Field_Soil_SFSP92	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	2	0-5cm
+SAMN56617183	Successfully loaded	SFSP93	Field_ITS_SFSP93		soil metagenome	soil	Field_Soil_SFSP93	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617184	Successfully loaded	SFSP94	Field_ITS_SFSP94		soil metagenome	soil	Field_Soil_SFSP94	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617185	Successfully loaded	SFSP95	Field_ITS_SFSP95		soil metagenome	soil	Field_Soil_SFSP95	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	2	5-15cm
+SAMN56617186	Successfully loaded	PCR Control 1	Field_ITS_PCRControl1		soil metagenome	soil	Field_Soil_PCR Control 1	2022-08	USA: Colorado	not collected	PCR Control	PCR Control	PCR Control	PCR Control	PCR Control
+SAMN56617187	Successfully loaded	SFSP96	Field_ITS_SFSP96		soil metagenome	soil	Field_Soil_SFSP96	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	3	5-15cm
+SAMN56617188	Successfully loaded	SFSP97	Field_ITS_SFSP97		soil metagenome	soil	Field_Soil_SFSP97	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	1	5-15cm
+SAMN56617189	Successfully loaded	SFSP98	Field_ITS_SFSP98		soil metagenome	soil	Field_Soil_SFSP98	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	1	OrgC
+SAMN56617190	Successfully loaded	SFSP99	Field_ITS_SFSP99		soil metagenome	soil	Field_Soil_SFSP99	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	1	0-5cm
+SAMN56617191	Successfully loaded	SFSP100	Field_ITS_SFSP100		soil metagenome	soil	Field_Soil_SFSP100	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	3	0-5cm
+SAMN56617192	Successfully loaded	SFSP101	Field_ITS_SFSP101		soil metagenome	soil	Field_Soil_SFSP101	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	1	OrgC
+SAMN56617193	Successfully loaded	SFSP102	Field_ITS_SFSP102		soil metagenome	soil	Field_Soil_SFSP102	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	2	OrgC
+SAMN56617194	Successfully loaded	SFSP103	Field_ITS_SFSP103		soil metagenome	soil	Field_Soil_SFSP103	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617195	Successfully loaded	SFSP104	Field_ITS_SFSP104		soil metagenome	soil	Field_Soil_SFSP104	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	3	0-5cm
+SAMN56617196	Successfully loaded	SFSP105	Field_ITS_SFSP105		soil metagenome	soil	Field_Soil_SFSP105	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	1	0-5cm
+SAMN56617197	Successfully loaded	SFSP106	Field_ITS_SFSP106		soil metagenome	soil	Field_Soil_SFSP106	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	3	0-5cm
+SAMN56617198	Successfully loaded	SFSP107	Field_ITS_SFSP107		soil metagenome	soil	Field_Soil_SFSP107	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	2	0-5cm
+SAMN56617199	Successfully loaded	SFSP108	Field_ITS_SFSP108		soil metagenome	soil	Field_Soil_SFSP108	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	2	0-5cm
+SAMN56617200	Successfully loaded	SFSP109	Field_ITS_SFSP109		soil metagenome	soil	Field_Soil_SFSP109	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	1	0-5cm
+SAMN56617201	Successfully loaded	SFSP110	Field_ITS_SFSP110		soil metagenome	soil	Field_Soil_SFSP110	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	2	0-5cm
+SAMN56617202	Successfully loaded	SFSP111	Field_ITS_SFSP111		soil metagenome	soil	Field_Soil_SFSP111	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	3	0-5cm
+SAMN56617203	Successfully loaded	SFSP112	Field_ITS_SFSP112		soil metagenome	soil	Field_Soil_SFSP112	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	3	0-5cm
+SAMN56617204	Successfully loaded	SFSP113	Field_ITS_SFSP113		soil metagenome	soil	Field_Soil_SFSP113	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	2	0-5cm
+SAMN56617205	Successfully loaded	SFSP114	Field_ITS_SFSP114		soil metagenome	soil	Field_Soil_SFSP114	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	2	0-5cm
+SAMN56617206	Successfully loaded	SFSP115	Field_ITS_SFSP115		soil metagenome	soil	Field_Soil_SFSP115	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	1	0-5cm
+SAMN56617207	Successfully loaded	SFSP116	Field_ITS_SFSP116		soil metagenome	soil	Field_Soil_SFSP116	2022-08	USA: Colorado	not collected	Hidden Grouse 5	2nd Post-MPB	2013	1	0-5cm
+SAMN56617208	Successfully loaded	SFSP117	Field_ITS_SFSP117		soil metagenome	soil	Field_Soil_SFSP117	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	1	0-5cm
+SAMN56617209	Successfully loaded	SFSP118	Field_ITS_SFSP118		soil metagenome	soil	Field_Soil_SFSP118	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	1	0-5cm
+SAMN56617210	Successfully loaded	SFSP119	Field_ITS_SFSP119		soil metagenome	soil	Field_Soil_SFSP119	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	2	0-5cm
+SAMN56617211	Successfully loaded	SFSP120	Field_ITS_SFSP120		soil metagenome	soil	Field_Soil_SFSP120	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	2	0-5cm
+SAMN56617212	Successfully loaded	SFSP121	Field_ITS_SFSP121		soil metagenome	soil	Field_Soil_SFSP121	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	3	0-5cm
+SAMN56617213	Successfully loaded	SFSP122	Field_ITS_SFSP122		soil metagenome	soil	Field_Soil_SFSP122	2022-08	USA: Colorado	not collected	Hidden Grouse 2	2nd Post-MPB	2014	3	0-5cm
+SAMN56617214	Successfully loaded	SFSP123	Field_ITS_SFSP123		soil metagenome	soil	Field_Soil_SFSP123	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	1	0-5cm
+SAMN56617215	Successfully loaded	SFSP124	Field_ITS_SFSP124		soil metagenome	soil	Field_Soil_SFSP124	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	3	0-5cm
+SAMN56617216	Successfully loaded	SFSP125	Field_ITS_SFSP125		soil metagenome	soil	Field_Soil_SFSP125	2022-08	USA: Colorado	not collected	LTFM	Recent Cuts	2019	1	0-5cm
+SAMN56617217	Successfully loaded	SFSP126	Field_ITS_SFSP126		soil metagenome	soil	Field_Soil_SFSP126	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	3	5-15cm
+SAMN56617218	Successfully loaded	SFSP127	Field_ITS_SFSP127		soil metagenome	soil	Field_Soil_SFSP127	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	1	5-15cm
+SAMN56617219	Successfully loaded	SFSP128	Field_ITS_SFSP128		soil metagenome	soil	Field_Soil_SFSP128	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	3	5-15cm
+SAMN56617220	Successfully loaded	SFSP129	Field_ITS_SFSP129		soil metagenome	soil	Field_Soil_SFSP129	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	2	5-15cm
+SAMN56617221	Successfully loaded	SFSP130	Field_ITS_SFSP130		soil metagenome	soil	Field_Soil_SFSP130	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	1	5-15cm
+SAMN56617222	Successfully loaded	SFSP131	Field_ITS_SFSP131		soil metagenome	soil	Field_Soil_SFSP131	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	3	5-15cm
+SAMN56617223	Successfully loaded	SFSP132	Field_ITS_SFSP132		soil metagenome	soil	Field_Soil_SFSP132	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	1	5-15cm
+SAMN56617224	Successfully loaded	SFSP133	Field_ITS_SFSP133		soil metagenome	soil	Field_Soil_SFSP133	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	3	5-15cm
+SAMN56617225	Successfully loaded	SFSP134	Field_ITS_SFSP134		soil metagenome	soil	Field_Soil_SFSP134	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	1	5-15cm
+SAMN56617226	Successfully loaded	SFSP135	Field_ITS_SFSP135		soil metagenome	soil	Field_Soil_SFSP135	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	2	5-15cm
+SAMN56617227	Successfully loaded	SFSP136	Field_ITS_SFSP136		soil metagenome	soil	Field_Soil_SFSP136	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	2	5-15cm
+SAMN56617228	Successfully loaded	SFSP137	Field_ITS_SFSP137		soil metagenome	soil	Field_Soil_SFSP137	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	2	5-15cm
+SAMN56617229	Successfully loaded	SFSP138	Field_ITS_SFSP138		soil metagenome	soil	Field_Soil_SFSP138	2022-08	USA: Colorado	not collected	Unknown	Unknown	Unknown	Unknown	Unknown
+SAMN56617230	Successfully loaded	SFSP139	Field_ITS_SFSP139		soil metagenome	soil	Field_Soil_SFSP139	2022-08	USA: Colorado	not collected	Unknown	Unknown	Unknown	Unknown	Unknown
+SAMN56617231	Successfully loaded	SFSP140	Field_ITS_SFSP140		soil metagenome	soil	Field_Soil_SFSP140	2022-08	USA: Colorado	not collected	Moose Run	2nd Post-MPB	2014	1	5-15cm
+SAMN56617232	Successfully loaded	SFSP141	Field_ITS_SFSP141		soil metagenome	soil	Field_Soil_SFSP141	2022-08	USA: Colorado	not collected	Hidden Grouse 9	2nd Post-MPB	2012	1	5-15cm
+SAMN56617233	Successfully loaded	SFSP142	Field_ITS_SFSP142		soil metagenome	soil	Field_Soil_SFSP142	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	2	5-15cm
+SAMN56617234	Successfully loaded	SFSP143	Field_ITS_SFSP143		soil metagenome	soil	Field_Soil_SFSP143	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	3	OrgC
+SAMN56617235	Successfully loaded	SFSP144	Field_ITS_SFSP144		soil metagenome	soil	Field_Soil_SFSP144	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	3	OrgC
+SAMN56617236	Successfully loaded	SFSP145	Field_ITS_SFSP145		soil metagenome	soil	Field_Soil_SFSP145	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	1	OrgC
+SAMN56617237	Successfully loaded	SFSP146	Field_ITS_SFSP146		soil metagenome	soil	Field_Soil_SFSP146	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	2	OrgC
+SAMN56617238	Successfully loaded	SFSP147	Field_ITS_SFSP147		soil metagenome	soil	Field_Soil_SFSP147	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	1	OrgC
+SAMN56617239	Successfully loaded	SFSP148	Field_ITS_SFSP148		soil metagenome	soil	Field_Soil_SFSP148	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	3	OrgC
+SAMN56617240	Successfully loaded	SFSP149	Field_ITS_SFSP149		soil metagenome	soil	Field_Soil_SFSP149	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	2	OrgC
+SAMN56617241	Successfully loaded	SFSP150	Field_ITS_SFSP150		soil metagenome	soil	Field_Soil_SFSP150	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	1	OrgC
+SAMN56617242	Successfully loaded	SFSP151	Field_ITS_SFSP151		soil metagenome	soil	Field_Soil_SFSP151	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	2	OrgC
+SAMN56617243	Successfully loaded	SFSP152	Field_ITS_SFSP152		soil metagenome	soil	Field_Soil_SFSP152	2022-08	USA: Colorado	not collected	Custer Wheel 5	1st Post-MPB	2010	3	OrgC
+SAMN56617244	Successfully loaded	SFSP153	Field_ITS_SFSP153		soil metagenome	soil	Field_Soil_SFSP153	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	2	OrgC
+SAMN56617245	Successfully loaded	SFSP154	Field_ITS_SFSP154		soil metagenome	soil	Field_Soil_SFSP154	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	3	OrgC
+SAMN56617246	Successfully loaded	SFSP155	Field_ITS_SFSP155		soil metagenome	soil	Field_Soil_SFSP155	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	2	OrgC
+SAMN56617247	Successfully loaded	SFSP156	Field_ITS_SFSP156		soil metagenome	soil	Field_Soil_SFSP156	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	1	OrgC
+SAMN56617248	Successfully loaded	SFSP157	Field_ITS_SFSP157		soil metagenome	soil	Field_Soil_SFSP157	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	3	OrgC
+SAMN56617249	Successfully loaded	SFSP158	Field_ITS_SFSP158		soil metagenome	soil	Field_Soil_SFSP158	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	2	OrgC
+SAMN56617250	Successfully loaded	SFSP159	Field_ITS_SFSP159		soil metagenome	soil	Field_Soil_SFSP159	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	1	OrgC
+SAMN56617251	Successfully loaded	SFSP160	Field_ITS_SFSP160		soil metagenome	soil	Field_Soil_SFSP160	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	2	OrgC
+SAMN56617252	Successfully loaded	SFSP161	Field_ITS_SFSP161		soil metagenome	soil	Field_Soil_SFSP161	2022-08	USA: Colorado	not collected	Pennock	Recent Cuts	2019/2021	1	OrgC
+SAMN56617253	Successfully loaded	SFSP162	Field_ITS_SFSP162		soil metagenome	soil	Field_Soil_SFSP162	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	3	0-5cm
+SAMN56617254	Successfully loaded	SFSP163	Field_ITS_SFSP163		soil metagenome	soil	Field_Soil_SFSP163	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	1	0-5cm
+SAMN56617255	Successfully loaded	SFSP164	Field_ITS_SFSP164		soil metagenome	soil	Field_Soil_SFSP164	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	3	0-5cm
+SAMN56617256	Successfully loaded	SFSP165	Field_ITS_SFSP165		soil metagenome	soil	Field_Soil_SFSP165	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	3	5-15cm
+SAMN56617257	Successfully loaded	SFSP166	Field_ITS_SFSP166		soil metagenome	soil	Field_Soil_SFSP166	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	2	5-15cm
+SAMN56617258	Successfully loaded	SFSP167	Field_ITS_SFSP167		soil metagenome	soil	Field_Soil_SFSP167	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	1	0-5cm
+SAMN56617259	Successfully loaded	SFSP168	Field_ITS_SFSP168		soil metagenome	soil	Field_Soil_SFSP168	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	1	5-15cm
+SAMN56617260	Successfully loaded	SFSP169	Field_ITS_SFSP169		soil metagenome	soil	Field_Soil_SFSP169	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	3	5-15cm
+SAMN56617261	Successfully loaded	SFSP170	Field_ITS_SFSP170		soil metagenome	soil	Field_Soil_SFSP170	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	2	0-5cm
+SAMN56617262	Successfully loaded	SFSP171	Field_ITS_SFSP171		soil metagenome	soil	Field_Soil_SFSP171	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	1	5-15cm
+SAMN56617263	Successfully loaded	SFSP172	Field_ITS_SFSP172		soil metagenome	soil	Field_Soil_SFSP172	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	2	0-5cm
+SAMN56617264	Successfully loaded	SFSP173	Field_ITS_SFSP173		soil metagenome	soil	Field_Soil_SFSP173	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	3	5-15cm
+SAMN56617265	Successfully loaded	SFSP174	Field_ITS_SFSP174		soil metagenome	soil	Field_Soil_SFSP174	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	3	OrgC
+SAMN56617266	Successfully loaded	SFSP175	Field_ITS_SFSP175		soil metagenome	soil	Field_Soil_SFSP175	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	2	0-5cm
+SAMN56617267	Successfully loaded	SFSP176	Field_ITS_SFSP176		soil metagenome	soil	Field_Soil_SFSP176	2022-08	USA: Colorado	not collected	Gould Crest	Reference Forest	Matrix Forest	3	0-5cm
+SAMN56617268	Successfully loaded	SFSP177	Field_ITS_SFSP177		soil metagenome	soil	Field_Soil_SFSP177	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	2	5-15cm
+SAMN56617269	Successfully loaded	SFSP178	Field_ITS_SFSP178		soil metagenome	soil	Field_Soil_SFSP178	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	2	0-5cm
+SAMN56617270	Successfully loaded	SFSP179	Field_ITS_SFSP179		soil metagenome	soil	Field_Soil_SFSP179	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617271	Successfully loaded	SFSP180	Field_ITS_SFSP180		soil metagenome	soil	Field_Soil_SFSP180	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	2	5-15cm
+SAMN56617272	Successfully loaded	SFSP181	Field_ITS_SFSP181		soil metagenome	soil	Field_Soil_SFSP181	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	3	0-5cm
+SAMN56617273	Successfully loaded	SFSP182	Field_ITS_SFSP182		soil metagenome	soil	Field_Soil_SFSP182	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	2	0-5cm
+SAMN56617274	Successfully loaded	SFSP183	Field_ITS_SFSP183		soil metagenome	soil	Field_Soil_SFSP183	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	3	0-5cm
+SAMN56617275	Successfully loaded	SFSP184	Field_ITS_SFSP184		soil metagenome	soil	Field_Soil_SFSP184	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	3	0-5cm
+SAMN56617276	Successfully loaded	SFSP185	Field_ITS_SFSP185		soil metagenome	soil	Field_Soil_SFSP185	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	1	0-5cm
+SAMN56617277	Successfully loaded	SFSP186	Field_ITS_SFSP186		soil metagenome	soil	Field_Soil_SFSP186	2022-08	USA: Colorado	not collected	Hidden Grouse 6	2nd Post-MPB	2013	2	0-5cm
+SAMN56617278	Successfully loaded	SFSP187	Field_ITS_SFSP187		soil metagenome	soil	Field_Soil_SFSP187	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	2	0-5cm
+SAMN56617279	Successfully loaded	SFSP188	Field_ITS_SFSP188		soil metagenome	soil	Field_Soil_SFSP188	2022-08	USA: Colorado	not collected	Custer Loop 1_1	1st Post-MPB	2009	1	0-5cm
+SAMN56617280	Successfully loaded	SFSP189	Field_ITS_SFSP189		soil metagenome	soil	Field_Soil_SFSP189	2022-08	USA: Colorado	not collected	Big Meadows 1	1st Post-MPB	2008	1	0-5cm
+SAMN56617281	Successfully loaded	SFSP190	Field_ITS_SFSP190		soil metagenome	soil	Field_Soil_SFSP190	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	2	0-5cm
+SAMN56617282	Successfully loaded	PCR Control 2	Field_ITS_PCRControl2		soil metagenome	soil	Field_Soil_PCR Control 2	2022-08	USA: Colorado	not collected	PCR Control	PCR Control	PCR Control	PCR Control	PCR Control
+SAMN56617283	Successfully loaded	SFSP191	Field_ITS_SFSP191		soil metagenome	soil	Field_Soil_SFSP191	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	2	0-5cm
+SAMN56617284	Successfully loaded	SFSP192	Field_ITS_SFSP192		soil metagenome	soil	Field_Soil_SFSP192	2022-08	USA: Colorado	not collected	Custer Loop 1_5	1st Post-MPB	2009	3	0-5cm
+SAMN56617285	Successfully loaded	SFSP193	Field_ITS_SFSP193		soil metagenome	soil	Field_Soil_SFSP193	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	1	0-5cm
+SAMN56617286	Successfully loaded	SFSP194	Field_ITS_SFSP194		soil metagenome	soil	Field_Soil_SFSP194	2022-08	USA: Colorado	not collected	Big Meadow 2	1st Post-MPB	2008	3	0-5cm
+SAMN56617287	Successfully loaded	SFSP195	Field_ITS_SFSP195		soil metagenome	soil	Field_Soil_SFSP195	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	3	5-15cm
+SAMN56617288	Successfully loaded	SFSP196	Field_ITS_SFSP196		soil metagenome	soil	Field_Soil_SFSP196	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	1	5-15cm
+SAMN56617289	Successfully loaded	SFSP197	Field_ITS_SFSP197		soil metagenome	soil	Field_Soil_SFSP197	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	3	0-5cm
+SAMN56617290	Successfully loaded	SFSP198	Field_ITS_SFSP198		soil metagenome	soil	Field_Soil_SFSP198	2022-08	USA: Colorado	not collected	Francisco	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617291	Successfully loaded	SFSP199	Field_ITS_SFSP199		soil metagenome	soil	Field_Soil_SFSP199	2022-08	USA: Colorado	not collected	Ruby Jewel1	1st Pre-MPB	1986	3	OrgC
+SAMN56617292	Successfully loaded	SFSP200	Field_ITS_SFSP200		soil metagenome	soil	Field_Soil_SFSP200	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	1	OrgC
+SAMN56617293	Successfully loaded	SFSP201	Field_ITS_SFSP201		soil metagenome	soil	Field_Soil_SFSP201	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	3	OrgC
+SAMN56617294	Successfully loaded	SFSP202	Field_ITS_SFSP202		soil metagenome	soil	Field_Soil_SFSP202	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617295	Successfully loaded	SFSP203	Field_ITS_SFSP203		soil metagenome	soil	Field_Soil_SFSP203	2022-08	USA: Colorado	not collected	Gould Slab	Reference Forest	Matrix Forest	3	OrgC
+SAMN56617296	Successfully loaded	SFSP204	Field_ITS_SFSP204		soil metagenome	soil	Field_Soil_SFSP204	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	3	5-15cm
+SAMN56617297	Successfully loaded	SFSP205	Field_ITS_SFSP205		soil metagenome	soil	Field_Soil_SFSP205	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	3	OrgC
+SAMN56617298	Successfully loaded	SFSP206	Field_ITS_SFSP206		soil metagenome	soil	Field_Soil_SFSP206	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617299	Successfully loaded	SFSP207	Field_ITS_SFSP207		soil metagenome	soil	Field_Soil_SFSP207	2022-08	USA: Colorado	not collected	Custer 1,2	Reference Forest	Matrix Forest	2	OrgC
+SAMN56617300	Successfully loaded	SFSP208	Field_ITS_SFSP208		soil metagenome	soil	Field_Soil_SFSP208	2022-08	USA: Colorado	not collected	Big Meadows	Reference Forest	Matrix Forest	2	0-5cm
+SAMN56617301	Successfully loaded	SFSP209	Field_ITS_SFSP209		soil metagenome	soil	Field_Soil_SFSP209	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	2	0-5cm
+SAMN56617302	Successfully loaded	SFSP210	Field_ITS_SFSP210		soil metagenome	soil	Field_Soil_SFSP210	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	0-5cm
+SAMN56617303	Successfully loaded	SFSP211	Field_ITS_SFSP211		soil metagenome	soil	Field_Soil_SFSP211	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	0-5cm
+SAMN56617304	Successfully loaded	SFSP212	Field_ITS_SFSP212		soil metagenome	soil	Field_Soil_SFSP212	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	3	0-5cm
+SAMN56617305	Successfully loaded	SFSP213	Field_ITS_SFSP213		soil metagenome	soil	Field_Soil_SFSP213	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	2	0-5cm
+SAMN56617306	Successfully loaded	SFSP214	Field_ITS_SFSP214		soil metagenome	soil	Field_Soil_SFSP214	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	2	0-5cm
+SAMN56617307	Successfully loaded	SFSP215	Field_ITS_SFSP215		soil metagenome	soil	Field_Soil_SFSP215	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	0-5cm
+SAMN56617308	Successfully loaded	SFSP216	Field_ITS_SFSP216		soil metagenome	soil	Field_Soil_SFSP216	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	3	0-5cm
+SAMN56617309	Successfully loaded	SFSP217	Field_ITS_SFSP217		soil metagenome	soil	Field_Soil_SFSP217	2022-08	USA: Colorado	not collected	Gould Mtn 17	1st Pre-MPB	1989	1	0-5cm
+SAMN56617310	Successfully loaded	SFSP218	Field_ITS_SFSP218		soil metagenome	soil	Field_Soil_SFSP218	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	1	0-5cm
+SAMN56617311	Successfully loaded	SFSP219	Field_ITS_SFSP219		soil metagenome	soil	Field_Soil_SFSP219	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	1	0-5cm
+SAMN56617312	Successfully loaded	SFSP220	Field_ITS_SFSP220		soil metagenome	soil	Field_Soil_SFSP220	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	3	0-5cm
+SAMN56617313	Successfully loaded	SFSP221	Field_ITS_SFSP221		soil metagenome	soil	Field_Soil_SFSP221	2022-08	USA: Colorado	not collected	Gould Crest	Recent Cuts	2018	3	0-5cm
+SAMN56617314	Successfully loaded	SFSP222	Field_ITS_SFSP222		soil metagenome	soil	Field_Soil_SFSP222	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	3	0-5cm
+SAMN56617315	Successfully loaded	SFSP223	Field_ITS_SFSP223		soil metagenome	soil	Field_Soil_SFSP223	2022-08	USA: Colorado	not collected	Gould Base	Recent Cuts	2019	1	0-5cm
+SAMN56617316	Successfully loaded	SFSP224	Field_ITS_SFSP224		soil metagenome	soil	Field_Soil_SFSP224	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	2	0-5cm
+SAMN56617317	Successfully loaded	SFSP225	Field_ITS_SFSP225		soil metagenome	soil	Field_Soil_SFSP225	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	2	0-5cm
+SAMN56617318	Successfully loaded	SFSP226	Field_ITS_SFSP226		soil metagenome	soil	Field_Soil_SFSP226	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	1	0-5cm
+SAMN56617319	Successfully loaded	SFSP227	Field_ITS_SFSP227		soil metagenome	soil	Field_Soil_SFSP227	2022-08	USA: Colorado	not collected	Gould Mtn16	1st Pre-MPB	1988	3	0-5cm
+SAMN56617320	Successfully loaded	SFSP228	Field_ITS_SFSP228		soil metagenome	soil	Field_Soil_SFSP228	2022-08	USA: Colorado	not collected	Gould Mtn 10	2nd Pre-MPB	1992	1	0-5cm
+SAMN56617321	Successfully loaded	SFSP229	Field_ITS_SFSP229		soil metagenome	soil	Field_Soil_SFSP229	2022-08	USA: Colorado	not collected	Gould Mtn South 1	2nd Pre-MPB	1996	2	0-5cm
+SAMN56617322	Successfully loaded	SFB1	Field_ITS_SFB1_Blank		soil metagenome	soil	Field_Soil_SFB1	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617323	Successfully loaded	SFB2	Field_ITS_SFB2_Blank		soil metagenome	soil	Field_Soil_SFB2	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617324	Successfully loaded	SFB3	Field_ITS_SFB3_Blank		soil metagenome	soil	Field_Soil_SFB3	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617325	Successfully loaded	SFB4	Field_ITS_SFB4_Blank		soil metagenome	soil	Field_Soil_SFB4	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617326	Successfully loaded	SFB5	Field_ITS_SFB5_Blank		soil metagenome	soil	Field_Soil_SFB5	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617327	Successfully loaded	SFB6	Field_ITS_SFB6_Blank		soil metagenome	soil	Field_Soil_SFB6	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617328	Successfully loaded	SFB7	Field_ITS_SFB7_Blank		soil metagenome	soil	Field_Soil_SFB7	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617329	Successfully loaded	SFB8	Field_ITS_SFB8_Blank		soil metagenome	soil	Field_Soil_SFB8	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617330	Successfully loaded	SFB9	Field_ITS_SFB9_Blank		soil metagenome	soil	Field_Soil_SFB9	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617331	Successfully loaded	SFB10	Field_ITS_SFB10_Blank		soil metagenome	soil	Field_Soil_SFB10	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617332	Successfully loaded	SFB11	Field_ITS_SFB11_Blank		soil metagenome	soil	Field_Soil_SFB11	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617333	Successfully loaded	SFB12	Field_ITS_SFB12_Blank		soil metagenome	soil	Field_Soil_SFB12	2022-08	USA: Colorado	not collected	Blank	Blank	Blank	Blank	Blank
+SAMN56617334	Successfully loaded	PCR Control 3	Field_ITS_PCRControl3		soil metagenome	soil	Field_Soil_PCR Control 3	2022-08	USA: Colorado	not collected	PCR Control	PCR Control	PCR Control	PCR Control	PCR Control

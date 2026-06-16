@@ -1,0 +1,103 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	host	isolation_source	collection_date	geo_loc_name	lat_lon	sample_type	time_point	replicate	treatment_landusehistory	salvage_harvest_status
+SAMN56660592	Successfully loaded	RT10	Greenhouse_ITS_RT10		soil metagenome	soil	Greenhouse_ITS_RT10	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	11	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660593	Successfully loaded	RT11	Greenhouse_ITS_RT11		soil metagenome	soil	Greenhouse_ITS_RT11	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	13	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660594	Successfully loaded	RT12	Greenhouse_ITS_RT12		soil metagenome	soil	Greenhouse_ITS_RT12	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	20	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660595	Successfully loaded	RT13	Greenhouse_ITS_RT13		soil metagenome	soil	Greenhouse_ITS_RT13	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	21	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660596	Successfully loaded	RT21	Greenhouse_ITS_RT21		soil metagenome	soil	Greenhouse_ITS_RT21	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	1	1st Post-MPB	Salvage_Harvested
+SAMN56660597	Successfully loaded	RT22	Greenhouse_ITS_RT22		soil metagenome	soil	Greenhouse_ITS_RT22	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	5	1st Post-MPB	Salvage_Harvested
+SAMN56660598	Successfully loaded	RT23	Greenhouse_ITS_RT23		soil metagenome	soil	Greenhouse_ITS_RT23	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	10	1st Post-MPB	Salvage_Harvested
+SAMN56660599	Successfully loaded	RT24	Greenhouse_ITS_RT24		soil metagenome	soil	Greenhouse_ITS_RT24	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	13	1st Post-MPB	Salvage_Harvested
+SAMN56660600	Successfully loaded	RT25	Greenhouse_ITS_RT25		soil metagenome	soil	Greenhouse_ITS_RT25	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	14	1st Post-MPB	Salvage_Harvested
+SAMN56660601	Successfully loaded	RT26	Greenhouse_ITS_RT26		soil metagenome	soil	Greenhouse_ITS_RT26	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	23	1st Post-MPB	Salvage_Harvested
+SAMN56660602	Successfully loaded	RT27	Greenhouse_ITS_RT27		soil metagenome	soil	Greenhouse_ITS_RT27	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	30	1st Post-MPB	Salvage_Harvested
+SAMN56660603	Successfully loaded	RT28	Greenhouse_ITS_RT28		soil metagenome	soil	Greenhouse_ITS_RT28	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	2	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660604	Successfully loaded	RT29	Greenhouse_ITS_RT29		soil metagenome	soil	Greenhouse_ITS_RT29	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	5	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660605	Successfully loaded	RT30	Greenhouse_ITS_RT30		soil metagenome	soil	Greenhouse_ITS_RT30	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	8	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660606	Successfully loaded	RT31	Greenhouse_ITS_RT31		soil metagenome	soil	Greenhouse_ITS_RT31	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	17	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660607	Successfully loaded	RT32	Greenhouse_ITS_RT32		soil metagenome	soil	Greenhouse_ITS_RT32	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	19	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660608	Successfully loaded	RT33	Greenhouse_ITS_RT33		soil metagenome	soil	Greenhouse_ITS_RT33	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	22	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660609	Successfully loaded	RT34	Greenhouse_ITS_RT34		soil metagenome	soil	Greenhouse_ITS_RT34	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	27	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660610	Successfully loaded	RT56	Greenhouse_ITS_RT56		soil metagenome	soil	Greenhouse_ITS_RT56	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	8	Reference Forest	Non_Salvage_Harvested
+SAMN56660611	Successfully loaded	RT57	Greenhouse_ITS_RT57		soil metagenome	soil	Greenhouse_ITS_RT57	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	12	Reference Forest	Non_Salvage_Harvested
+SAMN56660612	Successfully loaded	RT58	Greenhouse_ITS_RT58		soil metagenome	soil	Greenhouse_ITS_RT58	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	13	Reference Forest	Non_Salvage_Harvested
+SAMN56660613	Successfully loaded	RT59	Greenhouse_ITS_RT59		soil metagenome	soil	Greenhouse_ITS_RT59	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	19	Reference Forest	Non_Salvage_Harvested
+SAMN56660614	Successfully loaded	RT60	Greenhouse_ITS_RT60		soil metagenome	soil	Greenhouse_ITS_RT60	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	23	Reference Forest	Non_Salvage_Harvested
+SAMN56660615	Successfully loaded	RT61	Greenhouse_ITS_RT61		soil metagenome	soil	Greenhouse_ITS_RT61	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	26	Reference Forest	Non_Salvage_Harvested
+SAMN56660616	Successfully loaded	RT62	Greenhouse_ITS_RT62		soil metagenome	soil	Greenhouse_ITS_RT62	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	27	Reference Forest	Non_Salvage_Harvested
+SAMN56660617	Successfully loaded	RT69	Greenhouse_ITS_RT69		soil metagenome	soil	Greenhouse_ITS_RT69	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	5	2nd Post-MPB	Salvage_Harvested
+SAMN56660618	Successfully loaded	RT70	Greenhouse_ITS_RT70		soil metagenome	soil	Greenhouse_ITS_RT70	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	9	2nd Post-MPB	Salvage_Harvested
+SAMN56660619	Successfully loaded	RT71	Greenhouse_ITS_RT71		soil metagenome	soil	Greenhouse_ITS_RT71	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	17	2nd Post-MPB	Salvage_Harvested
+SAMN56660620	Successfully loaded	RT72	Greenhouse_ITS_RT72		soil metagenome	soil	Greenhouse_ITS_RT72	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	21	2nd Post-MPB	Salvage_Harvested
+SAMN56660621	Successfully loaded	RT73	Greenhouse_ITS_RT73		soil metagenome	soil	Greenhouse_ITS_RT73	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	23	2nd Post-MPB	Salvage_Harvested
+SAMN56660622	Successfully loaded	RT74	Greenhouse_ITS_RT74		soil metagenome	soil	Greenhouse_ITS_RT74	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	30	2nd Post-MPB	Salvage_Harvested
+SAMN56660623	Successfully loaded	RT75	Greenhouse_ITS_RT75		soil metagenome	soil	Greenhouse_ITS_RT75	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	3	Recent Cut	Salvage_Harvested
+SAMN56660624	Successfully loaded	RT76	Greenhouse_ITS_RT76		soil metagenome	soil	Greenhouse_ITS_RT76	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	7	Recent Cut	Salvage_Harvested
+SAMN56660625	Successfully loaded	RT77	Greenhouse_ITS_RT77		soil metagenome	soil	Greenhouse_ITS_RT77	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	11	Recent Cut	Salvage_Harvested
+SAMN56660626	Successfully loaded	RT78	Greenhouse_ITS_RT78		soil metagenome	soil	Greenhouse_ITS_RT78	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	15	Recent Cut	Salvage_Harvested
+SAMN56660627	Successfully loaded	RT79	Greenhouse_ITS_RT79		soil metagenome	soil	Greenhouse_ITS_RT79	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	17	Recent Cut	Salvage_Harvested
+SAMN56660628	Successfully loaded	RT8	Greenhouse_ITS_RT8		soil metagenome	soil	Greenhouse_ITS_RT8	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	1	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660629	Successfully loaded	RT80	Greenhouse_ITS_RT80		soil metagenome	soil	Greenhouse_ITS_RT80	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	20	Recent Cut	Salvage_Harvested
+SAMN56660630	Successfully loaded	RT81	Greenhouse_ITS_RT81		soil metagenome	soil	Greenhouse_ITS_RT81	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	25	Recent Cut	Salvage_Harvested
+SAMN56660631	Successfully loaded	RT9	Greenhouse_ITS_RT9		soil metagenome	soil	Greenhouse_ITS_RT9	2024-09	USA: Colorado	not collected	Root Tip	Day_of_Harvest	6	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660632	Successfully loaded	RTB1	Greenhouse_ITS_RTB1		soil metagenome	blank	Greenhouse_ITS_RTB1	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660633	Successfully loaded	RTB2	Greenhouse_ITS_RTB2		soil metagenome	blank	Greenhouse_ITS_RTB2	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660634	Successfully loaded	RTB3	Greenhouse_ITS_RTB3		soil metagenome	blank	Greenhouse_ITS_RTB3	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660635	Successfully loaded	SFGB100	Greenhouse_ITS_SFGB100		soil metagenome	soil	Greenhouse_ITS_SFGB100	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	6	1st Post-MPB	Salvage_Harvested
+SAMN56660636	Successfully loaded	SFGB101	Greenhouse_ITS_SFGB101		soil metagenome	soil	Greenhouse_ITS_SFGB101	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	8	1st Post-MPB	Salvage_Harvested
+SAMN56660637	Successfully loaded	SFGB102	Greenhouse_ITS_SFGB102		soil metagenome	soil	Greenhouse_ITS_SFGB102	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	13	1st Post-MPB	Salvage_Harvested
+SAMN56660638	Successfully loaded	SFGB103	Greenhouse_ITS_SFGB103		soil metagenome	soil	Greenhouse_ITS_SFGB103	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	15	1st Post-MPB	Salvage_Harvested
+SAMN56660639	Successfully loaded	SFGB104	Greenhouse_ITS_SFGB104		soil metagenome	soil	Greenhouse_ITS_SFGB104	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	18	1st Post-MPB	Salvage_Harvested
+SAMN56660640	Successfully loaded	SFGB105	Greenhouse_ITS_SFGB105		soil metagenome	soil	Greenhouse_ITS_SFGB105	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	22	1st Post-MPB	Salvage_Harvested
+SAMN56660641	Successfully loaded	SFGB106	Greenhouse_ITS_SFGB106		soil metagenome	soil	Greenhouse_ITS_SFGB106	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	23	1st Post-MPB	Salvage_Harvested
+SAMN56660642	Successfully loaded	SFGB107	Greenhouse_ITS_SFGB107		soil metagenome	soil	Greenhouse_ITS_SFGB107	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	25	1st Post-MPB	Salvage_Harvested
+SAMN56660643	Successfully loaded	SFGB108	Greenhouse_ITS_SFGB108		soil metagenome	soil	Greenhouse_ITS_SFGB108	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	2	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660644	Successfully loaded	SFGB109	Greenhouse_ITS_SFGB109		soil metagenome	soil	Greenhouse_ITS_SFGB109	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	6	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660645	Successfully loaded	SFGB110	Greenhouse_ITS_SFGB110		soil metagenome	soil	Greenhouse_ITS_SFGB110	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	8	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660646	Successfully loaded	SFGB111	Greenhouse_ITS_SFGB111		soil metagenome	soil	Greenhouse_ITS_SFGB111	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	14	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660647	Successfully loaded	SFGB112	Greenhouse_ITS_SFGB112		soil metagenome	soil	Greenhouse_ITS_SFGB112	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	21	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660648	Successfully loaded	SFGB113	Greenhouse_ITS_SFGB113		soil metagenome	soil	Greenhouse_ITS_SFGB113	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	22	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660649	Successfully loaded	SFGB114	Greenhouse_ITS_SFGB114		soil metagenome	soil	Greenhouse_ITS_SFGB114	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	23	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660650	Successfully loaded	SFGB115	Greenhouse_ITS_SFGB115		soil metagenome	soil	Greenhouse_ITS_SFGB115	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	25	1st Pre-MPB	Non_Salvage_Harvested
+SAMN56660651	Successfully loaded	SFGB140	Greenhouse_ITS_SFGB140		soil metagenome	soil	Greenhouse_ITS_SFGB140	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	4	Reference Forest	Non_Salvage_Harvested
+SAMN56660652	Successfully loaded	SFGB141	Greenhouse_ITS_SFGB141		soil metagenome	soil	Greenhouse_ITS_SFGB141	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	5	Reference Forest	Non_Salvage_Harvested
+SAMN56660653	Successfully loaded	SFGB142	Greenhouse_ITS_SFGB142		soil metagenome	soil	Greenhouse_ITS_SFGB142	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	6	Reference Forest	Non_Salvage_Harvested
+SAMN56660654	Successfully loaded	SFGB143	Greenhouse_ITS_SFGB143		soil metagenome	soil	Greenhouse_ITS_SFGB143	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	7	Reference Forest	Non_Salvage_Harvested
+SAMN56660655	Successfully loaded	SFGB144	Greenhouse_ITS_SFGB144		soil metagenome	soil	Greenhouse_ITS_SFGB144	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	13	Reference Forest	Non_Salvage_Harvested
+SAMN56660656	Successfully loaded	SFGB145	Greenhouse_ITS_SFGB145		soil metagenome	soil	Greenhouse_ITS_SFGB145	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	22	Reference Forest	Non_Salvage_Harvested
+SAMN56660657	Successfully loaded	SFGB146	Greenhouse_ITS_SFGB146		soil metagenome	soil	Greenhouse_ITS_SFGB146	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	26	Reference Forest	Non_Salvage_Harvested
+SAMN56660658	Successfully loaded	SFGB147	Greenhouse_ITS_SFGB147		soil metagenome	soil	Greenhouse_ITS_SFGB147	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	27	Reference Forest	Non_Salvage_Harvested
+SAMN56660659	Successfully loaded	SFGB156	Greenhouse_ITS_SFGB156		soil metagenome	soil	Greenhouse_ITS_SFGB156	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	3	2nd Post-MPB	Salvage_Harvested
+SAMN56660660	Successfully loaded	SFGB157	Greenhouse_ITS_SFGB157		soil metagenome	soil	Greenhouse_ITS_SFGB157	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	4	2nd Post-MPB	Salvage_Harvested
+SAMN56660661	Successfully loaded	SFGB158	Greenhouse_ITS_SFGB158		soil metagenome	soil	Greenhouse_ITS_SFGB158	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	5	2nd Post-MPB	Salvage_Harvested
+SAMN56660662	Successfully loaded	SFGB159	Greenhouse_ITS_SFGB159		soil metagenome	soil	Greenhouse_ITS_SFGB159	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	9	2nd Post-MPB	Salvage_Harvested
+SAMN56660663	Successfully loaded	SFGB160	Greenhouse_ITS_SFGB160		soil metagenome	soil	Greenhouse_ITS_SFGB160	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	17	2nd Post-MPB	Salvage_Harvested
+SAMN56660664	Successfully loaded	SFGB161	Greenhouse_ITS_SFGB161		soil metagenome	soil	Greenhouse_ITS_SFGB161	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	18	2nd Post-MPB	Salvage_Harvested
+SAMN56660665	Successfully loaded	SFGB162	Greenhouse_ITS_SFGB162		soil metagenome	soil	Greenhouse_ITS_SFGB162	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	25	2nd Post-MPB	Salvage_Harvested
+SAMN56660666	Successfully loaded	SFGB163	Greenhouse_ITS_SFGB163		soil metagenome	soil	Greenhouse_ITS_SFGB163	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	26	2nd Post-MPB	Salvage_Harvested
+SAMN56660667	Successfully loaded	SFGB164	Greenhouse_ITS_SFGB164		soil metagenome	soil	Greenhouse_ITS_SFGB164	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	9	Recent Cut	Salvage_Harvested
+SAMN56660668	Successfully loaded	SFGB165	Greenhouse_ITS_SFGB165		soil metagenome	soil	Greenhouse_ITS_SFGB165	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	15	Recent Cut	Salvage_Harvested
+SAMN56660669	Successfully loaded	SFGB166	Greenhouse_ITS_SFGB166		soil metagenome	soil	Greenhouse_ITS_SFGB166	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	16	Recent Cut	Salvage_Harvested
+SAMN56660670	Successfully loaded	SFGB167	Greenhouse_ITS_SFGB167		soil metagenome	soil	Greenhouse_ITS_SFGB167	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	17	Recent Cut	Salvage_Harvested
+SAMN56660671	Successfully loaded	SFGB168	Greenhouse_ITS_SFGB168		soil metagenome	soil	Greenhouse_ITS_SFGB168	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	20	Recent Cut	Salvage_Harvested
+SAMN56660672	Successfully loaded	SFGB169	Greenhouse_ITS_SFGB169		soil metagenome	soil	Greenhouse_ITS_SFGB169	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	22	Recent Cut	Salvage_Harvested
+SAMN56660673	Successfully loaded	SFGB170	Greenhouse_ITS_SFGB170		soil metagenome	soil	Greenhouse_ITS_SFGB170	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	26	Recent Cut	Salvage_Harvested
+SAMN56660674	Successfully loaded	SFGB171	Greenhouse_ITS_SFGB171		soil metagenome	soil	Greenhouse_ITS_SFGB171	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	27	Recent Cut	Salvage_Harvested
+SAMN56660675	Successfully loaded	SFGB84	Greenhouse_ITS_SFGB84		soil metagenome	soil	Greenhouse_ITS_SFGB84	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	1	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660676	Successfully loaded	SFGB85	Greenhouse_ITS_SFGB85		soil metagenome	soil	Greenhouse_ITS_SFGB85	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	6	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660677	Successfully loaded	SFGB86	Greenhouse_ITS_SFGB86		soil metagenome	soil	Greenhouse_ITS_SFGB86	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	7	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660678	Successfully loaded	SFGB87	Greenhouse_ITS_SFGB87		soil metagenome	soil	Greenhouse_ITS_SFGB87	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	13	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660679	Successfully loaded	SFGB88	Greenhouse_ITS_SFGB88		soil metagenome	soil	Greenhouse_ITS_SFGB88	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	17	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660680	Successfully loaded	SFGB89	Greenhouse_ITS_SFGB89		soil metagenome	soil	Greenhouse_ITS_SFGB89	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	22	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660681	Successfully loaded	SFGB90	Greenhouse_ITS_SFGB90		soil metagenome	soil	Greenhouse_ITS_SFGB90	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	24	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660682	Successfully loaded	SFGB91	Greenhouse_ITS_SFGB91		soil metagenome	soil	Greenhouse_ITS_SFGB91	2024-09	USA: Colorado	not collected	Rhizosphere	Day_of_Harvest	28	2nd Pre-MPB	Non_Salvage_Harvested
+SAMN56660683	Successfully loaded	SFGBB1	Greenhouse_ITS_SFGBB1		soil metagenome	blank	Greenhouse_ITS_SFGBB1	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660684	Successfully loaded	SFGBB2	Greenhouse_ITS_SFGBB2		soil metagenome	blank	Greenhouse_ITS_SFGBB2	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660685	Successfully loaded	SFGBB3	Greenhouse_ITS_SFGBB3		soil metagenome	blank	Greenhouse_ITS_SFGBB3	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660686	Successfully loaded	SFGBB4	Greenhouse_ITS_SFGBB4		soil metagenome	blank	Greenhouse_ITS_SFGBB4	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660687	Successfully loaded	SFGBB5	Greenhouse_ITS_SFGBB5		soil metagenome	blank	Greenhouse_ITS_SFGBB5	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660688	Successfully loaded	SFGBB6	Greenhouse_ITS_SFGBB6		soil metagenome	blank	Greenhouse_ITS_SFGBB6	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660689	Successfully loaded	SFGBB7	Greenhouse_ITS_SFGBB7		soil metagenome	blank	Greenhouse_ITS_SFGBB7	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660690	Successfully loaded	SFGBB8	Greenhouse_ITS_SFGBB8		soil metagenome	blank	Greenhouse_ITS_SFGBB8	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660691	Successfully loaded	SFGBB9	Greenhouse_ITS_SFGBB9		soil metagenome	blank	Greenhouse_ITS_SFGBB9	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660692	Successfully loaded	SFGBB10	Greenhouse_ITS_SFGBB10		soil metagenome	blank	Greenhouse_ITS_SFGBB10	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
+SAMN56660693	Successfully loaded	SFGBB11	Greenhouse_ITS_SFGBB11		soil metagenome	blank	Greenhouse_ITS_SFGBB11	2024-09	USA: Colorado	not collected	blank	blank	blank	blank	blank
