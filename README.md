@@ -38,6 +38,7 @@ Scripts are numbered in order of use in the analytical workflow:
 | 16 | `Greenhouse_Bayesian_CoefficientTables` | Coefficient tables for supplemental materials |
 | 17 | `Greenhouse_BayesianMultivariate_HypothesisFigure` | Main non-MPB vs. MPB hypothesis figure generation |
 | 18 | `Greenhouse_BayesianMultivariate_ManagementComparisonFigure` | Management comparison figure generation |
+| X | `Supplemental_Files` | Supplemental files for the associated manuscript |
 
 Each folder contains the relevant scripts and associated data files.
 
