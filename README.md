@@ -54,3 +54,4 @@ Raw sequence data (field ITS; greenhouse 16S and ITS) are available at NCBI SRA 
 
 Julie A. Fowler — julie.fowler@colostate.edu\
 ORCID — https://orcid.org/0000-0003-2180-561X
+Google Scholar — https://scholar.google.com/citations?user=PDE0dO0AAAAJ&hl=en
